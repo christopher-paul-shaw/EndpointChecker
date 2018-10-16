@@ -1,6 +1,6 @@
 {
-    "name": "christopher-paul-shaw/article",
-    "description": "FileBased Article Management",
+    "name": "christopher-paul-shaw/EndpointChecker",
+    "description": "Get the HTTP Code returned for a batch of URLS",
     "minimum-stability": "dev",
     "require": {
         "php": "^7.1"
