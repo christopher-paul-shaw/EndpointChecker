@@ -3,7 +3,7 @@
     "description": "Get the HTTP Code returned for a batch of URLS",
     "minimum-stability": "dev",
     "require": {
-        "php": "^7.1"
+        "php": "^5.4"
     },
     "require-dev": {
         "phpunit/phpunit": "^6.3"
