@@ -1,5 +1,5 @@
 {
-    "name": "christopher-paul-shaw/EndpointChecker",
+    "name": "christopher-paul-shaw/endpoint-checker",
     "description": "Get the HTTP Code returned for a batch of URLS",
     "minimum-stability": "dev",
     "require": {
